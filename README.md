@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
