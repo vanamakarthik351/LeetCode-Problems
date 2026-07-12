@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
