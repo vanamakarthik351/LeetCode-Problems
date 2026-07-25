@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
