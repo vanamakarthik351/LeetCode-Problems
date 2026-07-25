@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
+| [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
