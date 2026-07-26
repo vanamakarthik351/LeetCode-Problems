@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
