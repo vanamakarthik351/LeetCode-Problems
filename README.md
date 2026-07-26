@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
