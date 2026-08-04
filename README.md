@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -167,9 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
