@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
