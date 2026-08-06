@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
