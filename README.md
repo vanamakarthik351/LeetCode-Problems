@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Heap (Priority Queue)
