@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
