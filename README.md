@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -194,4 +196,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
