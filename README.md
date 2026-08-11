@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1510-stone-game-iv) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
