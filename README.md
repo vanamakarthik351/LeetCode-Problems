@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Combinatorics
