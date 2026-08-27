@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
