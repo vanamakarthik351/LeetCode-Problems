@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
