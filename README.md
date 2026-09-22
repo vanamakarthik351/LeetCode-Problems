@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
