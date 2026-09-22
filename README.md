@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
