@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
