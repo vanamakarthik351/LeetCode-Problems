@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1720-decode-xored-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [1720-decode-xored-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
