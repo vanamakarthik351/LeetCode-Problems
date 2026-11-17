@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanamakarthik351/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
